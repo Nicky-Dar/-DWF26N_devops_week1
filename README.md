@@ -2,9 +2,10 @@
 # DevOps
 DevOps adalah gabungan dari Development dan Operations. DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien.
 
-![pipeline-devops](https://user-images.githubusercontent.com/88620315/133464745-4af9262c-0471-4035-b7c5-acdf5711ea7a.png)
+
 
 # Pipeline
+![pipeline-devops](https://user-images.githubusercontent.com/88620315/133464745-4af9262c-0471-4035-b7c5-acdf5711ea7a.png)
 Pipeline DevOps adalah sekumpulan proses yang memungkinkan tim developer dan tim operations dapat bekerja sama untuk membangun dan menerapkan kode ke production environment. Pipeline DevOps sendiri terdiri dari 2 bagian yaitu development dan opration, namun secara garis besar mereka akan mengikuti fase DevOps pipeline berikut:
  Devlopment :
 1. Plan
@@ -31,7 +32,7 @@ Pada tahap terakhir ini, tim IT operations akan terus bekerja keras untuk memant
 
 # Tools yang Digunakan DevOps
 Tools DevOps
-
+![tools-devops](https://user-images.githubusercontent.com/88620315/133465203-bd4d970f-7859-4e4c-8d2b-6aaf0d455c16.png)
 Melalui berbagai referensi, ternyata ada banyak alat bantu untuk menerapkan DevOps yang harus kamu tahu.
 
 #1 Source Code Management
