@@ -29,7 +29,7 @@ Tahap selanjutnya adalah deployment. Setelah production environment dibuat dan d
 7. Monitor
 Pada tahap terakhir ini, tim IT operations akan terus bekerja keras untuk memantau infrastruktur, sistem, dan aplikasi. Hal ini dilakukan untuk memastikan bahwa produk atau aplikasi yang dikembangkan dapat berjalan dengan lancar. Mereka juga mengumpulkan data-data penting dari log, analitik, sistem monitoring, serta melihat feedback dari pengguna untuk mengetahui jika ada masalah pada kinerja aplikasi. 
 
-#Tools yang Digunakan DevOps
+# Tools yang Digunakan DevOps
 Tools DevOps
 
 Melalui berbagai referensi, ternyata ada banyak alat bantu untuk menerapkan DevOps yang harus kamu tahu.
