@@ -35,23 +35,23 @@ Tools DevOps
 ![tools-devops](https://user-images.githubusercontent.com/88620315/133465203-bd4d970f-7859-4e4c-8d2b-6aaf0d455c16.png)
 Melalui berbagai referensi, ternyata ada banyak alat bantu untuk menerapkan DevOps yang harus kamu tahu.
 
-#1 Source Code Management
-Melalui sumber repository, antar developer dapat memeriksa dan mengubah kode tanpa perlu saling menulis satu sama lainnya. Source control ini mungkin telah ada sejak 40 tahun yang lalu, tetapi ini merupakan komponen utama dari Continuous Integration atau CI.
+1 Source Code Management
+Dengan membuat repository pada source code management, antar developer dapat memeriksa dan mengubah kode tanpa perlu saling menulis satu sama lainnya. Source control ini merupakan komponen utama dari Continuous Integration atau CI.
 
-Adapun contoh produk yang berfungsi sebagai SCM yaitu Git, Subversion, Cloudforce, Bitbucket, dan TFS.
+Beberapa contoh produk yang digunakan sebagai SCM yaitu Git, GitHub, Mercurial, Subversion, Cloudforce, Bitbucket, dan TFS.
 
-#2 Build Server
+2 Build Server
 Build server adalah alat otomatisasi yang mengkompilasi kode dalam SCR (Source Code Repository) ke dalam basis kode yang dapat dieksekusi. Alat ini bisa kamu temukan seperti Jenkins, SonarQube, dan Artifactory.
 
-#3 Configuration Management
+3 Configuration Management
 Manajemen konfigurasi berguna untuk menetapkan konfigurasi pada server atau lingkungannya. Alat yang populer biasa kamu temukan seperti Puppet dan Chef.
 
-#4 Virtual Infrastructure
+4 Virtual Infrastructure
 Amazon Web Services dan Microsoft Azure adalah contoh infrastruktur virtual. Virtual Infrastructure ini disediakan oleh vendor cloud yang menjual insrastruktur atau Platform as a Service (PaaS). Infrastruktur ini memiliki API yang memungkinkan kamu membuat mesin baru yang terprogram dengan alat manajemen konfigurasi.
 
 Ada juga private cloud di mana private infrastructure virtual memungkinkan kamu menjalankan cloud di hardware sebagai data terpusat.
 
 Alat ini dikombinasikan dengan alat otomatisasi untuk memberdayakan organisasi yang melatih DevOps dengan kemampuan konfigurasi server tanpa jari di atas keyboard. Jika ingin menguji kode baru, cukup mengirimkan kode ke infrastruktur cloud untuk membangun lingkungan. Kemudian tes dijalankan tanpa adanya campur tangan manusia.
 
-#5 Test Automation
+5 Test Automation
 Test automation sebenarnya sudah ada sejak lama. Pengujian yang diadopsi oleh DevOps berfokus pada pengujian otomatis melalui pipeline build untuk memastikan bahwa build deployable sudah dilakukan. Tools populer untuk tahapan ini adalah Selenium dan Air.
