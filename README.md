@@ -33,7 +33,7 @@ Pada tahap terakhir ini, tim IT operations akan terus bekerja keras untuk memant
 # Tools yang Digunakan DevOps
 Tools DevOps
 ![tools-devops](https://user-images.githubusercontent.com/88620315/133465203-bd4d970f-7859-4e4c-8d2b-6aaf0d455c16.png)
-Melalui berbagai referensi, ternyata ada banyak alat bantu untuk menerapkan DevOps yang harus kamu tahu.
+Melalui berbagai referensi, ada banyak alat bantu atau tools untuk DevOps yang diperlukan. Seperti Source Code Management(SCM)
 
 1 Source Code Management
 Dengan membuat repository pada source code management, antar developer dapat memeriksa dan mengubah kode tanpa perlu saling menulis satu sama lainnya. Source control ini merupakan komponen utama dari Continuous Integration atau CI.
