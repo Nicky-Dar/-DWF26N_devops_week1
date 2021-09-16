@@ -1,13 +1,13 @@
 # DWF26N_devops_week1
 # DevOps
-DevOps adalah gabungan dari Development dan Operations. DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien.
-
-
+DevOps adalah gabungan dari Development dan Operations. DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien. DevOps tumbuh sebagai reaksi terhadap beberapa masalah umum yang dihadapi industri teknologi informasi, termasuk pembungkaman anggota tim dan pekerjaan yang mereka lakukan, ketidakpastian memperkenalkan fitur baru atau menerapkan perubahan, kesulitan menemukan dan mengatasi cacat dan munculnya kemacetan dalam software development lifecycle (SDLC). 
+DevOps bertujuan untuk mengatasi tantangan ini dengan meningkatkan seberapa baik operasi TI dan tim pengembangan berkolaborasi untuk menciptakan lingkungan yang dicirikan oleh tim terpadu dengan keahlian
 
 # Pipeline
 ![pipeline-devops](https://user-images.githubusercontent.com/88620315/133464745-4af9262c-0471-4035-b7c5-acdf5711ea7a.png)
 Pipeline DevOps adalah sekumpulan proses yang memungkinkan tim developer dan tim operations dapat bekerja sama untuk membangun dan menerapkan kode ke production environment. Pipeline DevOps sendiri terdiri dari 2 bagian yaitu development dan opration, namun secara garis besar mereka akan mengikuti fase DevOps pipeline berikut:
  Devlopment :
+ 
 1. Plan
 Fase ini melibatkan perencanaan untuk seluruh alur kerja yang dibutuhkan sebelum tim pengembang mulai menulis kode. Dalam tahap ini, manajer produk dan manajer proyek akan memainkan peran penting. Mereka akan bekerjasama untuk mengumpulkan requirements dan feedback dari klien ataupun stakeholders. Informasi tersebut kemudian akan dikumpulkan untuk membangun roadmap produk untuk memandu proses pengembangan yang akan dilakukan.
 
@@ -21,6 +21,7 @@ Setelah tim developer selesai menulis kode yang dibutuhkan, mereka akan memasuka
 Langkah selanjutnya adalah melakukan pengujian.  Jika ada masalah yang ditemukan pada fase ini, maka masalah tersebut akan dikirim kembali ke tim developer untuk diselesaikan.
 
 Opration:
+
 5. Release
 Fase release menjadi tonggak penting dalam DevOps pipeline. Pada tahap ini, setiap perubahan kode telah melewati serangkaian pengujian dan tim IT operations telah memastikan bahwa masalah yang merusak dan regresi sudah teratasi dengan baik.
 
