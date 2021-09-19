@@ -44,18 +44,21 @@ Pada tahap terakhir ini, tim IT operations akan terus bekerja keras untuk memant
 # Tools yang Digunakan DevOps
 Tools DevOps
 ![tools-devops](https://user-images.githubusercontent.com/88620315/133465203-bd4d970f-7859-4e4c-8d2b-6aaf0d455c16.png)
-Melalui berbagai referensi, ada banyak alat bantu atau tools untuk DevOps yang diperlukan. Seperti Source Code Management(SCM)
+Melalui berbagai referensi, ada banyak alat bantu atau tools untuk DevOps yang diperlukan. Berikut beberapa tools yang umumnya digunakan dalam proses development dan opration:
 
 1 Source Code Management
-Dengan membuat repository pada source code management, antar developer dapat memeriksa dan mengubah kode tanpa perlu saling menulis satu sama lainnya. Source control ini merupakan komponen utama dari Continuous Integration atau CI.
+Dengan membuat repository pada source code management, antar developer dapat memeriksa dan mengubah kode tanpa perlu saling menulis satu sama lainnya. digunakan untuk melacak modifikasi ke repositori kode sumber. SCM melacak riwayat perubahan yang berjalan ke basis kode dan membantu menyelesaikan konflik saat menggabungkan pembaruan dari beberapa kontributor. SCM juga identik dengan Version control. Ketika beberapa pengembang bekerja dalam basis kode bersama, adalah hal yang biasa terjadi untuk mengedit bagian kode yang dibagikan. Pada pengembangan terpisah mungkin sedang mengerjakan fitur yang tampaknya terisolasi, namun fitur ini mungkin menggunakan modul kode bersama.Oleh karena itu pengembang 1 yang mengerjakan Fitur 1 dapat melakukan beberapa pengeditan dan kemudian mengetahui bahwa Pengembang 2 yang mengerjakan Fitur 2 memiliki pengeditan yang berbeda. SCM membawa version control untuk mencegah hilangnya pekerjaan karena penimpaan konflik. Perlindungan ini bekerja dengan melacak perubahan dari setiap pengembang individu dan mengidentifikasi area konflik dan mencegah penimpaan. SCM kemudian akan mengomunikasikan titik konflik ini kembali ke pengembang sehingga mereka dapat meninjau dan menangani dengan aman.
+Source control ini sendiri merupakan komponen utama dari Continuous Integration atau CI.
 
 Beberapa contoh produk yang digunakan sebagai SCM yaitu Git, GitHub, Mercurial, Subversion, Cloudforce, Bitbucket, dan TFS.
 
 2 Build Server
-Build server adalah alat otomatisasi yang mengkompilasi kode dalam SCR (Source Code Repository) ke dalam basis kode yang dapat dieksekusi. Alat ini bisa kamu temukan seperti Jenkins, SonarQube, dan Artifactory.
+Build server adalah alat otomatisasi yang mengkompilasi kode dalam SCR (Source Code Repository) ke dalam basis kode yang dapat dieksekusi. 
+Beberapa contoh produk yang digunakan sebagai server builder seperti Jenkins, SonarQube, dan Artifactory.
 
 3 Configuration Management
-Manajemen konfigurasi berguna untuk menetapkan konfigurasi pada server atau lingkungannya. Alat yang populer biasa kamu temukan seperti Puppet dan Chef.
+Manajemen konfigurasi berguna untuk menetapkan konfigurasi pada server atau lingkungannya. 
+Alat yang populer biasa kamu temukan seperti Puppet dan Chef.
 
 4 Virtual Infrastructure
 Amazon Web Services dan Microsoft Azure adalah contoh infrastruktur virtual. Virtual Infrastructure ini disediakan oleh vendor cloud yang menjual insrastruktur atau Platform as a Service (PaaS). Infrastruktur ini memiliki API yang memungkinkan kamu membuat mesin baru yang terprogram dengan alat manajemen konfigurasi.
