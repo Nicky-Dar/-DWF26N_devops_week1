@@ -51,6 +51,7 @@ Melalui berbagai referensi, ada banyak alat bantu atau tools untuk DevOps yang d
     Dengan membuat repository pada source code management, antar developer dapat memeriksa dan mengubah kode tanpa perlu saling menulis satu sama lainnya. digunakan untuk melacak modifikasi ke repositori kode sumber. SCM melacak riwayat perubahan yang berjalan ke basis kode dan membantu menyelesaikan konflik saat menggabungkan pembaruan dari beberapa kontributor. SCM juga identik dengan Version control. Ketika beberapa pengembang bekerja dalam basis kode bersama, adalah hal yang biasa terjadi untuk mengedit bagian kode yang dibagikan. Pada pengembangan terpisah mungkin sedang mengerjakan fitur yang tampaknya terisolasi, namun fitur ini mungkin menggunakan modul kode bersama.Oleh karena itu pengembang 1 yang mengerjakan Fitur 1 dapat melakukan beberapa pengeditan dan kemudian mengetahui bahwa Pengembang 2 yang mengerjakan Fitur 2 memiliki pengeditan yang berbeda. SCM membawa version control untuk mencegah hilangnya pekerjaan karena penimpaan konflik. Perlindungan ini bekerja dengan melacak perubahan dari setiap pengembang individu dan mengidentifikasi area konflik dan mencegah penimpaan. SCM kemudian akan mengomunikasikan titik konflik ini kembali ke pengembang sehingga mereka dapat meninjau dan menangani dengan aman. Source control ini sendiri merupakan komponen utama dari Continuous Integration atau CI.
 
     Beberapa contoh produk yang digunakan sebagai SCM yaitu Git, GitHub, Gitlab, Mercurial, Subversion, Cloudforce, Bitbucket, dan TFS.
+
 ![image](https://user-images.githubusercontent.com/88620315/133928373-b2a3181b-5654-4665-aa89-6e4cf57db17f.png)
 
 
@@ -58,7 +59,9 @@ Melalui berbagai referensi, ada banyak alat bantu atau tools untuk DevOps yang d
     
     Manajemen kontainer mengacu pada serangkaian praktik yang mengatur dan memelihara perangkat lunak kontainerisasi. Alat manajemen kontainer mengotomatiskan pembuatan, penyebaran, penghancuran, dan penskalaan kontainer aplikasi atau sistem.
     Kontainerisasi adalah pendekatan untuk pengembangan perangkat lunak yang mengisolasi proses yang berbagi kernel OS dan mengikat pustaka aplikasi dan dependensi ke dalam satu unit yang dapat diterapkan. Hal ini membuat container ringan untuk dijalankan, karena hanya memerlukan informasi konfigurasi aplikasi dan kode dari OS host.
+    
     ![image](https://user-images.githubusercontent.com/88620315/133932647-e2e1f42a-8ac5-4e13-815b-8149a3ecb000.png)
+    
     **Docker**: Docker adalah alat ringan yang bertujuan untuk menyederhanakan dan mempercepat berbagai alur kerja di SDLC Anda dengan pendekatan terintegrasi. Docker kontainer adalah paket mandiri yang dapat dieksekusi yang mencakup semua yang Anda butuhkan untuk menjalankan aplikasi. Beberapa fitur utama docker yang sangat diperlukan diantara alat DevOps adalah:
     
     * Packaging format standart untuk berbagai aplikasi.
