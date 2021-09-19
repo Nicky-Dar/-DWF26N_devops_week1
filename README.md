@@ -94,6 +94,7 @@ Melalui berbagai referensi, ada banyak alat bantu atau tools untuk DevOps yang d
     Dengan menggunakan APM, tim IT dapat mengetahui masalah yang terjadi sebelum masalah tersebut berdampak langsung pada end user. Dengan begitu, perusahaan dapat selalu memberikan digital experience yang prima dan berkualitas untuk pelanggannya.
     
     ![image](https://user-images.githubusercontent.com/88620315/133936498-ae0023bb-9737-4bbb-868f-220938600b8f.png)
+    
     **Prometheus**: Prometheus adalah solusi pemantauan kinerja open-source dan berbasis komunitas. Ini juga mendukung pemantauan kontainer dan membuat peringatan berdasarkan data deret waktu. Solusi mencakup fitur-fitur berikut:
     * Penskalaan dengan bantuan sharding dan federasi fungsional.
     * Banyak perpustakaan klien memungkinkan instrumentasi layanan yang mudah.
